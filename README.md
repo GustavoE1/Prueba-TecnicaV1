@@ -157,7 +157,7 @@ Aquí podrás probar todos los endpoints.
 Todos los endpoints requieren una **API Key** en el header:
 
 
-x-api-key: mi_clave_super_segura
+x-api-key: pruebatecnica
 
 
 La clave debe coincidir con la definida en el archivo `.env`.
